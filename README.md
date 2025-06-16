@@ -1,16 +1,11 @@
-# Java-Calculator-App
-Simple Java Projects built entirely using traditional Java with JavaSE-22
-Sure! Here's a clean, casual but presentable **GitHub README** for your Java Calculator app:
 
----
-
-🧮 Java Calculator App
+### 🧮 Java Calculator App
 
 A simple calculator application built entirely in **Java** using **Java Swing** for the UI. I spent a chill day building this for fun because my hands were too idle 😅 — but it turned out better than expected!
 
 This calculator mimics the classic **Casio fx-100MS** layout, and supports:
 
-✨ Features
+### ✨ Features
 
 * Basic arithmetic operations `+`, `-`, `*`, `/`
 * Function support for:
@@ -25,7 +20,11 @@ This calculator mimics the classic **Casio fx-100MS** layout, and supports:
 
 ### 📸 Screenshot
 
-> *(Insert a screenshot here if you want — use `Alt + Print Screen` and upload to GitHub later)*
+![image](https://github.com/user-attachments/assets/e2c0c9d4-628a-4ce5-8fef-616d0bf2e27a)
+
+![image](https://github.com/user-attachments/assets/966b2b65-2a38-486f-9673-e773499655dd)
+
+
 
 ---
 
@@ -48,6 +47,7 @@ This calculator mimics the classic **Casio fx-100MS** layout, and supports:
 
 * Java
 * Java Swing
+* Java AWT
 * Eclipse IDE
 
 ---
@@ -59,11 +59,3 @@ This is just version 1.0 — planning to:
 * Add keyboard input support
 * Make more functions work (`hyp`, `ENG`, `a b/c`)
 * Create a better layout (like fx-991EX maybe? 😄)
-
----
-
-Feel free to fork, play around, or suggest features!
-
----
-
-Would you like help naming the repo, or generating a screenshot to include?
