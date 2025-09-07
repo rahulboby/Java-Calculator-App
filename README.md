@@ -33,7 +33,7 @@ This calculator mimics the classic **Casio fx-100MS** layout, and supports:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/Java-Calculator-App.git
+   git clone https://github.com/rahulboby/Java-Calculator-App.git
    cd Java-Calculator-App
    ```
 
